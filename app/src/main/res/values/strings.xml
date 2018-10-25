@@ -3,4 +3,5 @@
     <string name="number">민기</string>
     <string name="login_ID"></string>
     <string name="login_PW"></string>
+    <string name="circulate_result"></string>
 </resources>

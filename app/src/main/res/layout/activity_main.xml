@@ -43,10 +43,9 @@
         style="@style/Widget.AppCompat.Button"
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:onClick="ClickedBt1"
-        android:text="네이버홈페이지 열기"
         android:background="@color/gray"
-        />
+        android:onClick="ClickedBt1"
+        android:text="10월 4일 수업" />
 
 
     <Button
@@ -54,10 +53,9 @@
         style="@style/Widget.AppCompat.Button"
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:onClick="ClickedBt2"
-        android:text="전화걸기"
         android:background="@color/green"
-        />
+        android:onClick="ClickedBt2"
+        android:text="Linear Layout Test2" />
     <Button
         android:id="@+id/button3"
         style="@style/Widget.AppCompat.Button"

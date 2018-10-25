@@ -22,6 +22,22 @@
         <activity android:name=".Activity3">
 
         </activity>
+        <activity android:name=".October_4">
+
+        </activity>
+        <activity android:name=".Lab_04_circulate">
+
+        </activity>
+        <activity android:name=".Lab_04_mamamoo">
+
+        </activity>
+        <activity android:name=".Lab_04_payment">
+
+        </activity>
+        <activity android:name=".October_11">
+
+        </activity>
     </application>
+
 
 </manifest>
